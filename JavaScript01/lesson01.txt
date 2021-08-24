@@ -4,3 +4,11 @@ JavaScript(ES6)を学ぼう
 
   参考画像：JavaScript01_image_1.jpg
 
+
+JavaScript(ES6)とは
+  JavaScript（以下、jsと呼びます）はWeb開発において必須の存在です。
+  現在では、ほぼ全てのWebサイトでjsが使用されています。
+  今回学習するES2015(ES6)は、jsの新しい仕様（バージョン）で、
+  従来のjsより効率的にコードが書けることから近年注目を浴びています。
+
+  参考画像：JavaScript01_image_2.jpg
