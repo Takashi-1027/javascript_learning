@@ -438,3 +438,11 @@ switch文 - default
   defaultのブロックが実行されます。defaultはif文のelseに似たようなものです。
 
   参考画像：JavaScript01_image_55.jpg
+
+
+switch文 - default
+  このようなswitch文の性質を利用すると、if、else ifによる分岐が多く複雑な場合、
+  switch文で書き換えるとシンプルで読みやすいコードにできます。
+
+  参考画像：JavaScript01_image_56.jpg
+
