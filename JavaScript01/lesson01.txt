@@ -415,3 +415,10 @@ switch文の書き方(2)
   breakについては後ほど説明します。
 
   参考画像：JavaScript01_image_52.jpg
+
+
+switch文の書き方(3)
+  switch文では分岐の数だけcaseを追加していきます。右の図では2つ目のcaseの値に「黄」
+  が指定されており、定数colorの値が「黄」である場合には「要注意」と出力されるようになっています。
+
+  参考画像：JavaScript01_image_53.jpg
