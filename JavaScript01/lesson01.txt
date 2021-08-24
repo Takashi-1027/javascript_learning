@@ -422,3 +422,11 @@ switch文の書き方(3)
   が指定されており、定数colorの値が「黄」である場合には「要注意」と出力されるようになっています。
 
   参考画像：JavaScript01_image_53.jpg
+
+
+switch文の注意点
+  また、switch文ではbreakが非常に重要です。breakとはswitch文を終了する命令です。
+  breakがないと、合致したcaseの処理を行った後、その次のcaseの処理も実行してしまいます。
+  そのため、switch文を使うときにはbreakを忘れないように気をつけましょう。
+
+  参考画像：JavaScript01_image_54.jpg
