@@ -430,3 +430,11 @@ switch文の注意点
   そのため、switch文を使うときにはbreakを忘れないように気をつけましょう。
 
   参考画像：JavaScript01_image_54.jpg
+
+～switch(2)～
+switch文 - default
+  先ほど学習したように、switchの条件の値がcaseの値と一致したとき、
+  その部分が処理が実行されます。caseのどれにも一致しなかったとき、
+  defaultのブロックが実行されます。defaultはif文のelseに似たようなものです。
+
+  参考画像：JavaScript01_image_55.jpg
