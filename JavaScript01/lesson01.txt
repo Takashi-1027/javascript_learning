@@ -354,3 +354,11 @@ else ifの書き方
   具体的な使い方は次のスライドで見てみましょう。
 
   参考画像：JavaScript01_image_45.jpg
+
+
+else ifのコード
+  「else if」を使った実際のコードを確認してみましょう。
+  左の図では条件式2がtrueなので「else if」の中の処理が実行され、
+  コンソールには右の図のようになります。
+
+  参考画像：JavaScript01_image_46.jpg
